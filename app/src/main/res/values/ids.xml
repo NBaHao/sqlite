@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linearLayout" type="id" />
+    <item name="textView2" type="id" />
+    <item name="textView" type="id" />
+    <item name="textView3" type="id" />
+    <item name="edtName" type="id" />
+    <item name="edtCode" type="id" />
+    <item name="edtMark" type="id" />
+    <item name="btnAdd" type="id" />
+    <item name="btnUpdate" type="id" />
+    <item name="rcvStudent" type="id" />
+    <item name="btnDelete" type="id" />
+</resources>
